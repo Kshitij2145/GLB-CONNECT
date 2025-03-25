@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# GLB.Connect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A real-time platform designed to help juniors in college connect with seniors for personalized guidance.
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+GLB.Connect bridges the gap between junior and senior students by creating a supportive community for knowledge exchange, guidance, and mentorship. The platform helps students find career guidance, connect with peers, and access valuable resources.
 
-### `npm start`
+## Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Q&A Threads**: Ask questions and get answers from experienced peers
+- **Job Portal**: Find internship and job opportunities 
+- **Resource Sharing**: Access study materials and resources
+- **Anonymous Posting**: Ask questions without revealing your identity
+- **Alumni Network**: Connect with graduates from your institution
+- **Live Sessions**: Attend knowledge-sharing sessions with seniors
+- **Event Hub**: Stay updated on campus events
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Benefits
 
-### `npm test`
+- **Builds a Supportive Community**: Reduces the gap between juniors and seniors
+- **Empowers Introverted Students**: Anonymous posting and private chats help introverts seek advice
+- **Improves Career Guidance**: Connects juniors with seniors who share insights on internships and career paths
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- React.js
+- Tailwind CSS
+- JavaScript
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js (v14.0.0 or above)
+- npm (v6.0.0 or above)
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository
+   ```bash
+   git clone <repository-url>
+   cd glb-connect
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Install dependencies
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Start the development server
+   ```bash
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Open your browser and navigate to http://localhost:3000
 
-## Learn More
+## Folder Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+frontend/
+├── public/          # Static files and assets
+│   └── assets/      # Images and media files
+├── src/             # Source code
+│   ├── Components/  # React components
+│   └── ...          # Other source files
+├── package.json     # Dependencies and scripts
+└── ...              # Configuration files
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License - see the LICENSE file for details.
