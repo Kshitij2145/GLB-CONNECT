@@ -1,0 +1,24 @@
+Placeholder images needed for GLB.Connect website:
+
+1. Feature icons:
+   - qa-icon.png (for Q&A Threads)
+   - job-icon.png (for Job Portal)
+   - resource-icon.png (for Resource Sharing)
+   - anonymous-icon.png (for Anonymous Posting)
+   - alumni-icon.png (for Alumni Network)
+   - sessions-icon.png (for Live Sessions)
+   - events-icon.png (for Event Hub)
+
+2. Mentor profile images:
+   - thomas-lynn.png
+   - alex-reena.png
+   - tom-curran.png
+   - david-miller.png
+
+3. Testimonial profile images:
+   - testimonial1.png (Jessica Andrew)
+   - testimonial2.png (Darlene Robertson)
+   - testimonial3.png (Dianne Russell)
+   - testimonial4.png (Robert Johnson)
+
+Note: These images can be generated using placeholder services or downloaded from free stock image sites. Make sure to optimize them for web use. 
